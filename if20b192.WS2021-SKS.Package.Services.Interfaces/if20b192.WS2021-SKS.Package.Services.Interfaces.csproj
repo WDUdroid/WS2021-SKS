@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>if20b192.WS2021_SKS.Package.Services.Interfaces</RootNamespace>
+  </PropertyGroup>
+
+</Project>
